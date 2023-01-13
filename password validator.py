@@ -1,4 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Jan 13 13:38:32 2023
 
+@author: Oluwajuwon
+"""
 word = input('enter a password: ')
 
 def check(word):
